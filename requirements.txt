@@ -1,6 +1,6 @@
 masonite==2.0.9
 gunicorn==20.0.4
-waitress==1.1.0
-masonite==2.0.9
-psycopg2==2.7.5
-cleo==0.6.5
+
+
+
+
